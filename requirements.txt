@@ -1,0 +1,20 @@
+# ─── Core ───
+aiogram==3.13.1
+pyrogram==2.1.8
+TgCrypto==1.2.5
+
+# ─── Browser automation ───
+playwright==1.45.0
+playwright-stealth==1.0.6
+
+# ─── Database ───
+aiosqlite==0.20.0
+
+# ─── Scheduler ───
+APScheduler==3.10.4
+
+# ─── HTTP client (Fragment) ───
+aiohttp==3.9.5
+
+# ─── Utils ───
+python-dotenv==1.0.1

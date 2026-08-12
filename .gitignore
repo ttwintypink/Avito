@@ -1,0 +1,43 @@
+# ─── Python ───
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ─── Environment / Secrets ───
+.env
+.env.local
+.env.production
+
+# ─── Database ───
+*.db
+*.db-wal
+*.db-shm
+
+# ─── Sessions ───
+*.session
+*.session-journal
+
+# ─── Playwright ───
+avito_profile/
+
+# ─── Logs ───
+*.log
+
+# ─── IDE ───
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ─── OS ───
+.DS_Store
+Thumbs.db
+
+# ─── Node (for skills) ───
+node_modules/
+skills/
