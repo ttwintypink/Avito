@@ -1,10 +1,10 @@
 # ─── Core ───
 aiogram==3.13.1
-pyrogram==2.1.8
+pyrogram==2.0.106
 TgCrypto==1.2.5
 
 # ─── Browser automation ───
-playwright==1.45.0
+playwright==1.52.0
 playwright-stealth==1.0.6
 
 # ─── Database ───
